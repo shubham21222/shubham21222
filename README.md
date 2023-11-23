@@ -15,7 +15,7 @@
 
 - My socials are listed below
   - Twitter at [shubhamraikwar](https://x.com/shubham_2221)
-  - LinkedIn at [shubhamraikwar](https://www.linkedin.com/in/shubhamraikwar-shubhamraikwar)
+  - LinkedIn at [shubhamraikwar](https://www.linkedin.com/in/shubhamraikwar-shubhraikwar/)
   - Mail me at **shubhamraikwar08j@gmail.com** regarding any work or if you just wanna connect
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
