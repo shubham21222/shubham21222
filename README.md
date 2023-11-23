@@ -24,3 +24,6 @@
   - 🟢 Worked as a Full Stack Developer at [TechRitzy Pvt Ltd](https://techritzy.com/)
     
 [![My Skills](https://skillicons.dev/icons?i=aws,python,react,js,html,css,django,flask,tailwind,wordpress,linux,flask,bootstrap,mysql&perline=9)](https://skillicons.dev)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham21222&label=Profile%20views&color=0e75b6&style=flat" alt="shubham21222" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham21222" alt="shubham21222" /></a> </p>
