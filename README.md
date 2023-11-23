@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**shubham21222/shubham21222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hello, I am Shubham Raikwar**
 
-Here are some ideas to get you started:
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 I live in Bhopal,Madhya Pradesh ,India
+- I am currently working with technologies based on Javascript. Technologies such as ReactJS.
+- I usually work with design systems and ui-component based react projects and make complex and beautiful components.
+- I do Product Design, Frontend Development,Backend Development , Web Scraping ,Design related stuff.
+- My Tech Stack: React JS ,JavaScript,Python,Flask,Django.
+- Languages I know: JavaScript, React JS, Python, Flask.
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+- My socials are listed below
+  - Twitter at [shubhamraikwar](https://x.com/shubham_2221)
+  - LinkedIn at [shubhamraikwar](https://www.linkedin.com/in/shubhamraikwar)
+  - Mail me at **shubhamraikwar08j@gmail.com** regarding any work or if you just wanna connect
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+- My work experience
+  - 🟢 Worked as a Full Stack Developer at [TechRitzy Pvt Ltd](https://techritzy.com/)
+    
