@@ -23,4 +23,4 @@
 - My work experience
   - 🟢 Worked as a Full Stack Developer at [TechRitzy Pvt Ltd](https://techritzy.com/)
     
-[![My Skills](https://skillicons.dev/icons?i=aws,python,react,js,html,css,django,flask,tailwind,wordpress&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,python,react,js,html,css,django,flask,tailwind,wordpress,linux,flask,bootstrap,mysql&perline=9)](https://skillicons.dev)
